@@ -1,0 +1,10 @@
+.img-fluid
+{
+  height:500px;
+  width:500px;
+  background-color: rgb(195, 199, 209);
+  border-radius: 50%;
+}
+.img{
+  width: 100px;
+}

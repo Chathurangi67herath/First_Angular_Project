@@ -1,0 +1,14 @@
+.contact{
+background-color: rgb(236, 236, 242);
+padding: 3%;
+}
+
+.form-control{
+  padding: 20px;
+
+}
+
+.btn-primary{
+  padding: 15px;
+  font-size: 18px;
+}
